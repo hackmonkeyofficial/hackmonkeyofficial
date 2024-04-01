@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hackmonkeyofficial
 - 👀 I’m interested in everything that looks interesting
 - 🌱 I’m currently learning everything I can about science and technology
-- 💞️ I’m looking to collaborate on nothing and with no one but myself
 - 📫 How to reach me - I'm a ghost and you can't find me anywhere but nowhere
 
 <!---
